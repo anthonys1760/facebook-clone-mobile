@@ -1,0 +1,36 @@
+.center {
+    text-align: center;
+    
+}
+
+.container-fluid {
+    height: 43px;
+    background-color: #3B5998;
+}
+
+.container {
+    
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    
+}
+
+#move {
+    padding: 10px;
+}
+
+.form-control {
+    background: #F5F6F7;
+}
+
+p {
+    font-size: 14px;
+    color: #576B95;
+}
+
+
+
+
