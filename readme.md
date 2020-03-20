@@ -1,6 +1,6 @@
 # Facebook Clone
 
-![Facebook Clone](facebookclone.png)
+![Facebook Clone](mobile.png)
 <hr>
 This is a clone of the original facebook website. This site was coded using HTML and CSS.
 
